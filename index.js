@@ -9,7 +9,7 @@ var mediaM = 0;
 var quantidadeM = 0;
 var quantidadeH = 0;
 
-for(i = 1 ;i <= 3; i++) {
+for(i = 1 ;i <= 15; i++) {
     altura = parseInt(prompt("Informe sua altura ["+i+"]:"));
     sexo = prompt("sexo: M ou F:")
     
